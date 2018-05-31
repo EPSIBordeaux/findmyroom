@@ -25,7 +25,7 @@ Le MVP est le suivant :
 
 ## Story Mapping 
 
-Voir "story-mapping.pdf"
+Voir "[story-mapping.pdf](./story-mapping.pdf)"
 
 Version editable (lien temporaire) : https://app.mindmup.com/map/_free/2018/05/6b673500644f11e8bc53a13f47f5b47d
 
