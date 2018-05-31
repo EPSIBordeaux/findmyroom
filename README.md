@@ -18,10 +18,11 @@ Le [Projet 1](https://github.com/sylvainmetayer/epsi-i4-agile-workshop/projects/
 
 Le MVP est le suivant : 
 
-- Possibilité de se connecter et s'inscrire
+- S'inscrire / Se connecter
 - Possibilité d'ajouter une annonce de location immobilière depuis un site externe, tel que le bon coin, seloger, ...
-- Possiblité de consulter un article de la base de connaissance globale
-- Possiblité pour l'admin d'ajouter, éditer et supprimer un article à la base de connaissance globale. 
+- Possibilité de consulter un article de la base de connaissance globale
+- Possibilité pour l'admin d'ajouter, éditer et supprimer un article à la base de connaissance globale. 
+- Possibilité Ajout d'un dossier locatif dans lequel il est possible d'ajouter ses éléments. Dans ce MVP, il n'y aura pas de contrôle afin de savoir si un élément est abusif ou non.
 
 ## Story Mapping 
 
