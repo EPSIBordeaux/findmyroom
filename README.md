@@ -40,3 +40,4 @@ Version editable (lien temporaire) : https://app.mindmup.com/map/_free/2018/05/6
 
 - Permettre de faciliter la recherche d'appartement en regroupant les informations disponibles
 - Permettre de ne pas se faire avoir en ayant à disposition une base de connaissance avec des conseils, template de lettre, documents abusifs, ...
+- Permettre de centraliser les documents nécessaire à la constitution d'un dossier de location
